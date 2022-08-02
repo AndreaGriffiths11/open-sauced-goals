@@ -13,33 +13,33 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5290,
+    "stargazers_count": 5306,
     "open_issues_count": 12,
     "forks_count": 1289
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 120724,
-    "open_issues_count": 7,
-    "forks_count": 16175
+    "stargazers_count": 121055,
+    "open_issues_count": 8,
+    "forks_count": 16200
   },
   {
     "full_name": "antiboredom/videogrep",
-    "stargazers_count": 2911,
+    "stargazers_count": 2912,
     "open_issues_count": 6,
     "forks_count": 223
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 716,
+    "stargazers_count": 719,
     "open_issues_count": 2,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 22752,
+    "stargazers_count": 22793,
     "open_issues_count": 112,
-    "forks_count": 3693
+    "forks_count": 3692
   },
   {
     "full_name": "AllInOpenSource/All-In",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 6290,
-    "open_issues_count": 4,
+    "stargazers_count": 6308,
+    "open_issues_count": 3,
     "forks_count": 479
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 7436,
-    "open_issues_count": 2756,
-    "forks_count": 1540
+    "stargazers_count": 7518,
+    "open_issues_count": 2743,
+    "forks_count": 1548
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 7246,
-    "open_issues_count": 168,
-    "forks_count": 2008
+    "stargazers_count": 7280,
+    "open_issues_count": 170,
+    "forks_count": 2022
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19456,
+    "stargazers_count": 19470,
     "open_issues_count": 663,
     "forks_count": 2628
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 26393,
-    "open_issues_count": 74,
-    "forks_count": 694
+    "stargazers_count": 26474,
+    "open_issues_count": 76,
+    "forks_count": 695
   },
   {
     "full_name": "githubevents/universe2021",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "googlecolab/colabtools",
-    "stargazers_count": 1520,
-    "open_issues_count": 944,
-    "forks_count": 563
+    "stargazers_count": 1523,
+    "open_issues_count": 950,
+    "forks_count": 565
   },
   {
     "full_name": "vinitshahdeo/Hacktoberfest2021",
     "stargazers_count": 839,
     "open_issues_count": 83,
-    "forks_count": 663
+    "forks_count": 662
   },
   {
     "full_name": "exercising/lerna-es",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 39947,
+    "stargazers_count": 39986,
     "open_issues_count": 6,
-    "forks_count": 7922
+    "forks_count": 7944
   },
   {
     "full_name": "devspacemx/devspace.mx",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 43979,
-    "open_issues_count": 287,
-    "forks_count": 10573
+    "stargazers_count": 44096,
+    "open_issues_count": 288,
+    "forks_count": 10611
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "NickeManarin/ScreenToGif",
-    "stargazers_count": 17920,
-    "open_issues_count": 193,
-    "forks_count": 1850
+    "stargazers_count": 17939,
+    "open_issues_count": 194,
+    "forks_count": 1852
   },
   {
     "full_name": "Breazile/MandoPuter",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 75416,
-    "open_issues_count": 2835,
-    "forks_count": 4285
+    "stargazers_count": 75500,
+    "open_issues_count": 2828,
+    "forks_count": 4288
   },
   {
     "full_name": "zakokor/pegao",
@@ -176,7 +176,7 @@
   {
     "full_name": "24pullrequests/24pullrequests",
     "stargazers_count": 1456,
-    "open_issues_count": 52,
-    "forks_count": 493
+    "open_issues_count": 48,
+    "forks_count": 494
   }
 ]
