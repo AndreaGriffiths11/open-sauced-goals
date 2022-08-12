@@ -13,37 +13,37 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5326,
+    "stargazers_count": 5336,
     "open_issues_count": 12,
-    "forks_count": 1292
+    "forks_count": 1293
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 121441,
+    "stargazers_count": 121587,
     "open_issues_count": 9,
-    "forks_count": 16245
+    "forks_count": 16271
   },
   {
     "full_name": "antiboredom/videogrep",
-    "stargazers_count": 2920,
+    "stargazers_count": 2923,
     "open_issues_count": 6,
     "forks_count": 223
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 725,
+    "stargazers_count": 726,
     "open_issues_count": 2,
     "forks_count": 146
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 22946,
+    "stargazers_count": 23034,
     "open_issues_count": 112,
-    "forks_count": 3690
+    "forks_count": 3693
   },
   {
     "full_name": "AllInOpenSource/All-In",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 13,
     "forks_count": 5
   },
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 6357,
+    "stargazers_count": 6395,
     "open_issues_count": 3,
-    "forks_count": 486
+    "forks_count": 491
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 7578,
-    "open_issues_count": 2737,
-    "forks_count": 1587
+    "stargazers_count": 7611,
+    "open_issues_count": 2765,
+    "forks_count": 1599
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 7386,
+    "stargazers_count": 7420,
     "open_issues_count": 174,
-    "forks_count": 2032
+    "forks_count": 2046
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19492,
+    "stargazers_count": 19507,
     "open_issues_count": 664,
     "forks_count": 2627
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 26692,
-    "open_issues_count": 75,
-    "forks_count": 701
+    "stargazers_count": 26768,
+    "open_issues_count": 79,
+    "forks_count": 703
   },
   {
     "full_name": "githubevents/universe2021",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "googlecolab/colabtools",
-    "stargazers_count": 1528,
-    "open_issues_count": 949,
-    "forks_count": 566
+    "stargazers_count": 1530,
+    "open_issues_count": 946,
+    "forks_count": 567
   },
   {
     "full_name": "vinitshahdeo/Hacktoberfest2021",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 40045,
-    "open_issues_count": 5,
-    "forks_count": 7954
+    "stargazers_count": 40123,
+    "open_issues_count": 6,
+    "forks_count": 8000
   },
   {
     "full_name": "devspacemx/devspace.mx",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 44314,
-    "open_issues_count": 292,
-    "forks_count": 10679
+    "stargazers_count": 44434,
+    "open_issues_count": 290,
+    "forks_count": 10709
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 497,
+    "stargazers_count": 498,
     "open_issues_count": 6,
     "forks_count": 78
   },
   {
     "full_name": "NickeManarin/ScreenToGif",
-    "stargazers_count": 17988,
+    "stargazers_count": 18002,
     "open_issues_count": 195,
-    "forks_count": 1856
+    "forks_count": 1863
   },
   {
     "full_name": "Breazile/MandoPuter",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 76221,
-    "open_issues_count": 2891,
-    "forks_count": 4325
+    "stargazers_count": 76322,
+    "open_issues_count": 2865,
+    "forks_count": 4327
   },
   {
     "full_name": "zakokor/pegao",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "24pullrequests/24pullrequests",
-    "stargazers_count": 1461,
-    "open_issues_count": 49,
+    "stargazers_count": 1462,
+    "open_issues_count": 48,
     "forks_count": 494
   }
 ]
