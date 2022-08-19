@@ -1,15 +1,15 @@
 [
   {
     "full_name": "codedgar/Puppertino",
-    "stargazers_count": 744,
+    "stargazers_count": 861,
     "open_issues_count": 5,
-    "forks_count": 29
+    "forks_count": 32
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 2960,
+    "stargazers_count": 2966,
     "open_issues_count": 24,
-    "forks_count": 1318
+    "forks_count": 1319
   },
   {
     "full_name": "sandes/vainilla",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "leereilly/hubot-minecraft-skin",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5345,
+    "stargazers_count": 5361,
     "open_issues_count": 12,
-    "forks_count": 1296
+    "forks_count": 1297
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 121954,
+    "stargazers_count": 122082,
     "open_issues_count": 9,
-    "forks_count": 16310
+    "forks_count": 16326
   },
   {
     "full_name": "antiboredom/videogrep",
-    "stargazers_count": 2924,
-    "open_issues_count": 7,
+    "stargazers_count": 2926,
+    "open_issues_count": 6,
     "forks_count": 223
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 727,
-    "open_issues_count": 2,
+    "stargazers_count": 732,
+    "open_issues_count": 3,
     "forks_count": 146
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 23098,
+    "stargazers_count": 23157,
     "open_issues_count": 112,
-    "forks_count": 3694
+    "forks_count": 3696
   },
   {
     "full_name": "AllInOpenSource/All-In",
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 6424,
-    "open_issues_count": 3,
-    "forks_count": 491
+    "stargazers_count": 6449,
+    "open_issues_count": 2,
+    "forks_count": 493
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 7646,
+    "stargazers_count": 7686,
     "open_issues_count": 2797,
-    "forks_count": 1602
+    "forks_count": 1617
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 7446,
-    "open_issues_count": 176,
-    "forks_count": 2051
+    "stargazers_count": 7504,
+    "open_issues_count": 177,
+    "forks_count": 2055
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19516,
+    "stargazers_count": 19527,
     "open_issues_count": 664,
-    "forks_count": 2625
+    "forks_count": 2626
   },
   {
     "full_name": "githubuniverseworkshops/GitHub-Actions-Planet-GitHubUniverse2021",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 26844,
-    "open_issues_count": 78,
+    "stargazers_count": 26903,
+    "open_issues_count": 81,
     "forks_count": 703
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "googlecolab/colabtools",
-    "stargazers_count": 1531,
-    "open_issues_count": 956,
-    "forks_count": 566
+    "stargazers_count": 1535,
+    "open_issues_count": 960,
+    "forks_count": 565
   },
   {
     "full_name": "vinitshahdeo/Hacktoberfest2021",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 40195,
+    "stargazers_count": 40242,
     "open_issues_count": 6,
-    "forks_count": 8021
+    "forks_count": 8034
   },
   {
     "full_name": "devspacemx/devspace.mx",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 44608,
-    "open_issues_count": 291,
-    "forks_count": 10757
+    "stargazers_count": 44733,
+    "open_issues_count": 293,
+    "forks_count": 10793
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "NickeManarin/ScreenToGif",
-    "stargazers_count": 18035,
-    "open_issues_count": 194,
-    "forks_count": 1867
+    "stargazers_count": 18084,
+    "open_issues_count": 195,
+    "forks_count": 1870
   },
   {
     "full_name": "Breazile/MandoPuter",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 76441,
-    "open_issues_count": 2864,
-    "forks_count": 4337
+    "stargazers_count": 76552,
+    "open_issues_count": 2905,
+    "forks_count": 4352
   }
 ]
