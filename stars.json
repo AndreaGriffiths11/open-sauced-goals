@@ -1,33 +1,33 @@
 [
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 7852,
+    "stargazers_count": 7866,
     "open_issues_count": 62,
     "forks_count": 736
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20417,
+    "stargazers_count": 20419,
     "open_issues_count": 28,
-    "forks_count": 1731
+    "forks_count": 1733
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 13023,
-    "open_issues_count": 192,
-    "forks_count": 1071
+    "stargazers_count": 13070,
+    "open_issues_count": 204,
+    "forks_count": 1072
   },
   {
     "full_name": "codedgar/Puppertino",
-    "stargazers_count": 922,
-    "open_issues_count": 6,
+    "stargazers_count": 928,
+    "open_issues_count": 7,
     "forks_count": 35
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 2984,
+    "stargazers_count": 2986,
     "open_issues_count": 26,
-    "forks_count": 1327
+    "forks_count": 1329
   },
   {
     "full_name": "sandes/vainilla",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5411,
+    "stargazers_count": 5420,
     "open_issues_count": 12,
-    "forks_count": 1304
+    "forks_count": 1303
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 122705,
-    "open_issues_count": 8,
-    "forks_count": 16382
+    "stargazers_count": 123161,
+    "open_issues_count": 9,
+    "forks_count": 16422
   },
   {
     "full_name": "antiboredom/videogrep",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 742,
+    "stargazers_count": 744,
     "open_issues_count": 4,
     "forks_count": 149
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 23417,
-    "open_issues_count": 120,
-    "forks_count": 3699
+    "stargazers_count": 23473,
+    "open_issues_count": 121,
+    "forks_count": 3701
   },
   {
     "full_name": "AllInOpenSource/All-In",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 6530,
+    "stargazers_count": 6553,
     "open_issues_count": 2,
-    "forks_count": 497
+    "forks_count": 500
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 7841,
-    "open_issues_count": 2865,
-    "forks_count": 1677
+    "stargazers_count": 7875,
+    "open_issues_count": 2869,
+    "forks_count": 1686
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 7691,
-    "open_issues_count": 186,
-    "forks_count": 2085
+    "stargazers_count": 7739,
+    "open_issues_count": 187,
+    "forks_count": 2096
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19562,
+    "stargazers_count": 19572,
     "open_issues_count": 663,
-    "forks_count": 2622
+    "forks_count": 2623
   },
   {
     "full_name": "githubuniverseworkshops/GitHub-Actions-Planet-GitHubUniverse2021",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 27229,
-    "open_issues_count": 72,
-    "forks_count": 712
+    "stargazers_count": 27325,
+    "open_issues_count": 74,
+    "forks_count": 715
   },
   {
     "full_name": "githubevents/universe2021",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "googlecolab/colabtools",
-    "stargazers_count": 1560,
-    "open_issues_count": 956,
-    "forks_count": 570
+    "stargazers_count": 1564,
+    "open_issues_count": 964,
+    "forks_count": 572
   },
   {
     "full_name": "vinitshahdeo/Hacktoberfest2021",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 41114,
+    "stargazers_count": 41345,
     "open_issues_count": 6,
-    "forks_count": 8169
+    "forks_count": 8217
   },
   {
     "full_name": "devspacemx/devspace.mx",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 45326,
-    "open_issues_count": 304,
-    "forks_count": 10975
+    "stargazers_count": 45463,
+    "open_issues_count": 310,
+    "forks_count": 11011
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 500,
-    "open_issues_count": 7,
-    "forks_count": 78
+    "stargazers_count": 501,
+    "open_issues_count": 8,
+    "forks_count": 79
   }
 ]
