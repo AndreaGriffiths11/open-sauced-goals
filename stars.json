@@ -1,21 +1,21 @@
 [
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 36053,
-    "open_issues_count": 378,
-    "forks_count": 5520
+    "stargazers_count": 36393,
+    "open_issues_count": 382,
+    "forks_count": 5591
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 32144,
-    "open_issues_count": 103,
-    "forks_count": 5311
+    "stargazers_count": 32272,
+    "open_issues_count": 105,
+    "forks_count": 5343
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 17864,
-    "open_issues_count": 350,
-    "forks_count": 991
+    "stargazers_count": 17933,
+    "open_issues_count": 347,
+    "forks_count": 1003
   },
   {
     "full_name": "glrodasz/awesome-estreamers-coders",
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 27021,
-    "open_issues_count": 19,
+    "stargazers_count": 27053,
+    "open_issues_count": 20,
     "forks_count": 1828
   },
   {
     "full_name": "trinib/trinib",
-    "stargazers_count": 81,
+    "stargazers_count": 83,
     "open_issues_count": 5,
     "forks_count": 32
   },
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "merchedev/devs-list",
-    "stargazers_count": 162,
+    "stargazers_count": 163,
     "open_issues_count": 1,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 8073,
+    "stargazers_count": 8083,
     "open_issues_count": 64,
     "forks_count": 764
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20526,
+    "stargazers_count": 20531,
     "open_issues_count": 28,
     "forks_count": 1737
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 15309,
-    "open_issues_count": 289,
-    "forks_count": 1370
+    "stargazers_count": 15355,
+    "open_issues_count": 281,
+    "forks_count": 1377
   },
   {
     "full_name": "codedgar/Puppertino",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 3072,
+    "stargazers_count": 3079,
     "open_issues_count": 25,
-    "forks_count": 1378
+    "forks_count": 1379
   },
   {
     "full_name": "sandes/vainilla",
@@ -97,39 +97,39 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5714,
+    "stargazers_count": 5728,
     "open_issues_count": 12,
-    "forks_count": 1347
+    "forks_count": 1352
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 128749,
-    "open_issues_count": 19,
-    "forks_count": 17034
+    "stargazers_count": 128918,
+    "open_issues_count": 21,
+    "forks_count": 17060
   },
   {
     "full_name": "antiboredom/videogrep",
-    "stargazers_count": 3008,
-    "open_issues_count": 12,
-    "forks_count": 229
+    "stargazers_count": 3009,
+    "open_issues_count": 13,
+    "forks_count": 230
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 804,
+    "stargazers_count": 806,
     "open_issues_count": 1,
-    "forks_count": 159
+    "forks_count": 158
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 25037,
+    "stargazers_count": 25078,
     "open_issues_count": 124,
-    "forks_count": 3714
+    "forks_count": 3713
   },
   {
     "full_name": "AllInOpenSource/All-In",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 5,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "octodemo/Moose-Dependabot-Twitch",
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 7629,
+    "stargazers_count": 7650,
     "open_issues_count": 5,
-    "forks_count": 595
+    "forks_count": 600
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 8778,
-    "open_issues_count": 3694,
-    "forks_count": 2107
+    "stargazers_count": 8803,
+    "open_issues_count": 3708,
+    "forks_count": 2122
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 8560,
-    "open_issues_count": 214,
-    "forks_count": 2289
+    "stargazers_count": 8586,
+    "open_issues_count": 215,
+    "forks_count": 2292
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19806,
+    "stargazers_count": 19818,
     "open_issues_count": 668,
-    "forks_count": 2649
+    "forks_count": 2647
   },
   {
     "full_name": "githubuniverseworkshops/GitHub-Actions-Planet-GitHubUniverse2021",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 32047,
-    "open_issues_count": 83,
-    "forks_count": 807
+    "stargazers_count": 32366,
+    "open_issues_count": 86,
+    "forks_count": 813
   }
 ]
