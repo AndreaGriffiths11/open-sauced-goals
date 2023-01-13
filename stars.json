@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mouredev/hello-git",
+    "stargazers_count": 866,
+    "open_issues_count": 0,
+    "forks_count": 43
+  },
+  {
     "full_name": "SistemasTecTlaxiaco/octocat-AR-T",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -7,21 +13,21 @@
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 38902,
-    "open_issues_count": 416,
-    "forks_count": 6043
+    "stargazers_count": 39095,
+    "open_issues_count": 421,
+    "forks_count": 6085
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33326,
-    "open_issues_count": 108,
-    "forks_count": 5545
+    "stargazers_count": 33412,
+    "open_issues_count": 103,
+    "forks_count": 5565
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 18609,
-    "open_issues_count": 394,
-    "forks_count": 1100
+    "stargazers_count": 18706,
+    "open_issues_count": 391,
+    "forks_count": 1107
   },
   {
     "full_name": "glrodasz/awesome-estreamers-coders",
@@ -31,45 +37,45 @@
   },
   {
     "full_name": "mishmanners/mish-friendly-food",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 27344,
+    "stargazers_count": 27375,
     "open_issues_count": 11,
-    "forks_count": 1842
+    "forks_count": 1843
   },
   {
     "full_name": "trinib/trinib",
-    "stargazers_count": 102,
-    "open_issues_count": 4,
+    "stargazers_count": 106,
+    "open_issues_count": 5,
     "forks_count": 32
   },
   {
     "full_name": "merchedev/devs-list",
-    "stargazers_count": 164,
+    "stargazers_count": 167,
     "open_issues_count": 1,
     "forks_count": 41
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 8214,
+    "stargazers_count": 8226,
     "open_issues_count": 61,
-    "forks_count": 773
+    "forks_count": 777
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20573,
+    "stargazers_count": 20578,
     "open_issues_count": 28,
-    "forks_count": 1743
+    "forks_count": 1744
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 15663,
-    "open_issues_count": 265,
-    "forks_count": 1428
+    "stargazers_count": 16535,
+    "open_issues_count": 287,
+    "forks_count": 1457
   },
   {
     "full_name": "codedgar/Puppertino",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 3113,
+    "stargazers_count": 3116,
     "open_issues_count": 26,
-    "forks_count": 1390
+    "forks_count": 1393
   },
   {
     "full_name": "sandes/vainilla",
@@ -91,39 +97,39 @@
   },
   {
     "full_name": "leereilly/hubot-minecraft-skin",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5828,
+    "stargazers_count": 5840,
     "open_issues_count": 12,
-    "forks_count": 1364
+    "forks_count": 1366
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 130593,
-    "open_issues_count": 17,
-    "forks_count": 17212
+    "stargazers_count": 130717,
+    "open_issues_count": 15,
+    "forks_count": 17232
   },
   {
     "full_name": "antiboredom/videogrep",
-    "stargazers_count": 3028,
-    "open_issues_count": 14,
+    "stargazers_count": 3030,
+    "open_issues_count": 15,
     "forks_count": 233
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 836,
+    "stargazers_count": 849,
     "open_issues_count": 0,
-    "forks_count": 162
+    "forks_count": 163
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 25697,
-    "open_issues_count": 134,
-    "forks_count": 3733
+    "stargazers_count": 25780,
+    "open_issues_count": 137,
+    "forks_count": 3734
   },
   {
     "full_name": "AllInOpenSource/All-In",
@@ -139,25 +145,25 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 7880,
-    "open_issues_count": 5,
-    "forks_count": 613
+    "stargazers_count": 7892,
+    "open_issues_count": 4,
+    "forks_count": 612
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 9116,
-    "open_issues_count": 3721,
-    "forks_count": 2225
+    "stargazers_count": 9161,
+    "open_issues_count": 3753,
+    "forks_count": 2245
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 8848,
+    "stargazers_count": 8879,
     "open_issues_count": 224,
-    "forks_count": 2361
+    "forks_count": 2370
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19905,
+    "stargazers_count": 19919,
     "open_issues_count": 669,
     "forks_count": 2657
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 8,
     "forks_count": 26
-  },
-  {
-    "full_name": "nektos/act",
-    "stargazers_count": 33717,
-    "open_issues_count": 96,
-    "forks_count": 851
   }
 ]
