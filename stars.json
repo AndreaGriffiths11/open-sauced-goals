@@ -1,21 +1,21 @@
 [
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 4593,
+    "stargazers_count": 4735,
     "open_issues_count": 20,
-    "forks_count": 830
+    "forks_count": 851
   },
   {
     "full_name": "midudev/aprendiendo-react",
-    "stargazers_count": 823,
-    "open_issues_count": 4,
-    "forks_count": 245
+    "stargazers_count": 858,
+    "open_issues_count": 3,
+    "forks_count": 252
   },
   {
     "full_name": "mouredev/hello-git",
-    "stargazers_count": 1195,
-    "open_issues_count": 10,
-    "forks_count": 90
+    "stargazers_count": 1317,
+    "open_issues_count": 5,
+    "forks_count": 121
   },
   {
     "full_name": "SistemasTecTlaxiaco/octocat-AR-T",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 39925,
-    "open_issues_count": 439,
-    "forks_count": 6230
+    "stargazers_count": 40168,
+    "open_issues_count": 441,
+    "forks_count": 6277
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33862,
+    "stargazers_count": 34004,
     "open_issues_count": 106,
-    "forks_count": 5656
+    "forks_count": 5677
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 19026,
-    "open_issues_count": 406,
-    "forks_count": 1156
+    "stargazers_count": 19107,
+    "open_issues_count": 403,
+    "forks_count": 1176
   },
   {
     "full_name": "glrodasz/awesome-estreamers-coders",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 27519,
-    "open_issues_count": 16,
-    "forks_count": 1844
+    "stargazers_count": 27566,
+    "open_issues_count": 17,
+    "forks_count": 1845
   },
   {
     "full_name": "trinib/trinib",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 8272,
-    "open_issues_count": 63,
-    "forks_count": 780
+    "stargazers_count": 8288,
+    "open_issues_count": 61,
+    "forks_count": 782
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20586,
+    "stargazers_count": 20593,
     "open_issues_count": 28,
-    "forks_count": 1743
+    "forks_count": 1747
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 17143,
-    "open_issues_count": 255,
-    "forks_count": 1489
+    "stargazers_count": 17220,
+    "open_issues_count": 261,
+    "forks_count": 1495
   },
   {
     "full_name": "codedgar/Puppertino",
-    "stargazers_count": 975,
+    "stargazers_count": 976,
     "open_issues_count": 7,
     "forks_count": 40
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 3128,
+    "stargazers_count": 3133,
     "open_issues_count": 27,
-    "forks_count": 1398
+    "forks_count": 1403
   },
   {
     "full_name": "sandes/vainilla",
@@ -115,32 +115,32 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 5886,
+    "stargazers_count": 5905,
     "open_issues_count": 12,
-    "forks_count": 1364
+    "forks_count": 1368
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 131375,
+    "stargazers_count": 131516,
     "open_issues_count": 14,
-    "forks_count": 17277
+    "forks_count": 17294
   },
   {
     "full_name": "antiboredom/videogrep",
-    "stargazers_count": 3041,
+    "stargazers_count": 3044,
     "open_issues_count": 15,
     "forks_count": 234
   },
   {
     "full_name": "hysnsec/awesome-threat-modelling",
-    "stargazers_count": 864,
+    "stargazers_count": 866,
     "open_issues_count": 1,
-    "forks_count": 168
+    "forks_count": 169
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 26082,
-    "open_issues_count": 132,
+    "stargazers_count": 26156,
+    "open_issues_count": 131,
     "forks_count": 3743
   },
   {
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "Universidade-Livre/ciencia-da-computacao",
-    "stargazers_count": 7949,
+    "stargazers_count": 7960,
     "open_issues_count": 4,
-    "forks_count": 611
+    "forks_count": 609
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 9321,
-    "open_issues_count": 3839,
-    "forks_count": 2284
+    "stargazers_count": 9438,
+    "open_issues_count": 3862,
+    "forks_count": 2308
   },
   {
     "full_name": "gustavoguanabara/html-css",
-    "stargazers_count": 8999,
-    "open_issues_count": 227,
-    "forks_count": 2416
+    "stargazers_count": 9030,
+    "open_issues_count": 230,
+    "forks_count": 2430
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 19959,
+    "stargazers_count": 19964,
     "open_issues_count": 669,
-    "forks_count": 2656
+    "forks_count": 2655
   }
 ]
