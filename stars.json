@@ -1,13 +1,13 @@
 [
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 26761,
-    "open_issues_count": 36,
-    "forks_count": 721
+    "stargazers_count": 26842,
+    "open_issues_count": 29,
+    "forks_count": 725
   },
   {
     "full_name": "education/codespaces-project-template-dotnet",
-    "stargazers_count": 43,
+    "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 15
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 21269,
-    "open_issues_count": 453,
-    "forks_count": 3844
+    "stargazers_count": 21307,
+    "open_issues_count": 459,
+    "forks_count": 3859
   },
   {
     "full_name": "githubpresente/opensourceLATAM",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 473,
+    "stargazers_count": 477,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 5418,
+    "stargazers_count": 5442,
     "open_issues_count": 21,
-    "forks_count": 999
+    "forks_count": 1005
   },
   {
     "full_name": "midudev/aprendiendo-react",
-    "stargazers_count": 2110,
+    "stargazers_count": 2190,
     "open_issues_count": 5,
-    "forks_count": 439
+    "forks_count": 447
   },
   {
     "full_name": "mouredev/hello-git",
-    "stargazers_count": 2265,
-    "open_issues_count": 41,
-    "forks_count": 423
+    "stargazers_count": 2305,
+    "open_issues_count": 25,
+    "forks_count": 433
   },
   {
     "full_name": "SistemasTecTlaxiaco/octocat-AR-T",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 47941,
-    "open_issues_count": 500,
-    "forks_count": 7447
+    "stargazers_count": 48537,
+    "open_issues_count": 501,
+    "forks_count": 7535
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 36286,
-    "open_issues_count": 104,
-    "forks_count": 6174
+    "stargazers_count": 36416,
+    "open_issues_count": 106,
+    "forks_count": 6215
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 20429,
-    "open_issues_count": 409,
-    "forks_count": 1340
+    "stargazers_count": 20483,
+    "open_issues_count": 415,
+    "forks_count": 1348
   },
   {
     "full_name": "glrodasz/awesome-estreamers-coders",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 28149,
-    "open_issues_count": 34,
-    "forks_count": 1872
+    "stargazers_count": 28191,
+    "open_issues_count": 37,
+    "forks_count": 1874
   },
   {
     "full_name": "trinib/trinib",
-    "stargazers_count": 162,
+    "stargazers_count": 164,
     "open_issues_count": 10,
-    "forks_count": 41
+    "forks_count": 40
   },
   {
     "full_name": "merchedev/devs-list",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 8443,
+    "stargazers_count": 8450,
     "open_issues_count": 62,
     "forks_count": 784
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20652,
+    "stargazers_count": 20656,
     "open_issues_count": 28,
-    "forks_count": 1746
+    "forks_count": 1745
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 18396,
-    "open_issues_count": 313,
-    "forks_count": 1624
+    "stargazers_count": 18434,
+    "open_issues_count": 317,
+    "forks_count": 1627
   },
   {
     "full_name": "codedgar/Puppertino",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 3205,
+    "stargazers_count": 3207,
     "open_issues_count": 30,
-    "forks_count": 1428
+    "forks_count": 1429
   },
   {
     "full_name": "sandes/vainilla",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 6061,
+    "stargazers_count": 6070,
     "open_issues_count": 12,
     "forks_count": 1383
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 136937,
+    "stargazers_count": 137060,
     "open_issues_count": 22,
-    "forks_count": 17752
+    "forks_count": 17765
   }
 ]
