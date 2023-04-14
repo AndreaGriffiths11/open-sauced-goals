@@ -1,14 +1,14 @@
 [
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 27083,
+    "stargazers_count": 27132,
     "open_issues_count": 29,
     "forks_count": 726
   },
   {
     "full_name": "education/codespaces-project-template-dotnet",
-    "stargazers_count": 56,
-    "open_issues_count": 1,
+    "stargazers_count": 57,
+    "open_issues_count": 0,
     "forks_count": 18
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 21396,
-    "open_issues_count": 442,
-    "forks_count": 3901
+    "stargazers_count": 21430,
+    "open_issues_count": 439,
+    "forks_count": 3922
   },
   {
     "full_name": "githubpresente/opensourceLATAM",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "sallar/github-contributions-chart",
-    "stargazers_count": 4647,
+    "stargazers_count": 4646,
     "open_issues_count": 9,
     "forks_count": 216
   },
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 5591,
+    "stargazers_count": 5628,
     "open_issues_count": 22,
-    "forks_count": 1034
+    "forks_count": 1046
   },
   {
     "full_name": "midudev/aprendiendo-react",
-    "stargazers_count": 2344,
-    "open_issues_count": 5,
-    "forks_count": 477
+    "stargazers_count": 2416,
+    "open_issues_count": 2,
+    "forks_count": 489
   },
   {
     "full_name": "mouredev/hello-git",
-    "stargazers_count": 2435,
-    "open_issues_count": 20,
-    "forks_count": 482
+    "stargazers_count": 2497,
+    "open_issues_count": 31,
+    "forks_count": 497
   },
   {
     "full_name": "SistemasTecTlaxiaco/octocat-AR-T",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 50272,
-    "open_issues_count": 460,
-    "forks_count": 7804
+    "stargazers_count": 50882,
+    "open_issues_count": 461,
+    "forks_count": 7879
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 36936,
+    "stargazers_count": 37053,
     "open_issues_count": 109,
-    "forks_count": 6352
+    "forks_count": 6377
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 20722,
-    "open_issues_count": 420,
-    "forks_count": 1373
+    "stargazers_count": 20785,
+    "open_issues_count": 413,
+    "forks_count": 1375
   },
   {
     "full_name": "glrodasz/awesome-estreamers-coders",
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 28329,
-    "open_issues_count": 39,
+    "stargazers_count": 28367,
+    "open_issues_count": 44,
     "forks_count": 1880
   },
   {
     "full_name": "trinib/trinib",
-    "stargazers_count": 168,
-    "open_issues_count": 11,
+    "stargazers_count": 171,
+    "open_issues_count": 10,
     "forks_count": 41
   },
   {
     "full_name": "merchedev/devs-list",
     "stargazers_count": 173,
     "open_issues_count": 3,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 8485,
+    "stargazers_count": 8499,
     "open_issues_count": 62,
     "forks_count": 784
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20770,
+    "stargazers_count": 20780,
     "open_issues_count": 29,
     "forks_count": 1755
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 18686,
-    "open_issues_count": 337,
-    "forks_count": 1658
+    "stargazers_count": 18716,
+    "open_issues_count": 352,
+    "forks_count": 1666
   },
   {
     "full_name": "codedgar/Puppertino",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "github/choosealicense.com",
-    "stargazers_count": 3221,
+    "stargazers_count": 3225,
     "open_issues_count": 30,
     "forks_count": 1437
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "meirwah/awesome-incident-response",
-    "stargazers_count": 6094,
+    "stargazers_count": 6099,
     "open_issues_count": 12,
-    "forks_count": 1386
+    "forks_count": 1387
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 137554,
+    "stargazers_count": 137797,
     "open_issues_count": 16,
-    "forks_count": 17821
+    "forks_count": 17837
   }
 ]
