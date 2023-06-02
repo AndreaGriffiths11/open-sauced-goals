@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "github/training-kit",
+    "stargazers_count": 3932,
+    "open_issues_count": 50,
+    "forks_count": 4458
+  },
+  {
+    "full_name": "tiangolo/fastapi",
+    "stargazers_count": 58598,
+    "open_issues_count": 533,
+    "forks_count": 4875
+  },
+  {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 1703,
-    "open_issues_count": 52,
-    "forks_count": 181
+    "stargazers_count": 1721,
+    "open_issues_count": 53,
+    "forks_count": 189
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5050,
+    "stargazers_count": 5074,
     "open_issues_count": 14,
     "forks_count": 589
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1077,
+    "stargazers_count": 1081,
     "open_issues_count": 4,
-    "forks_count": 253
+    "forks_count": 255
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "tiangolo/blog-posts",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 2,
     "forks_count": 87
   },
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "juntossomosmais/frontend-guideline",
-    "stargazers_count": 1079,
+    "stargazers_count": 1081,
     "open_issues_count": 0,
     "forks_count": 46
   },
@@ -49,8 +61,8 @@
   },
   {
     "full_name": "github/brasil",
-    "stargazers_count": 95,
-    "open_issues_count": 2,
+    "stargazers_count": 128,
+    "open_issues_count": 4,
     "forks_count": 13
   },
   {
@@ -61,31 +73,31 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1445,
-    "open_issues_count": 55,
+    "stargazers_count": 1461,
+    "open_issues_count": 53,
     "forks_count": 93
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 77573,
-    "open_issues_count": 273,
-    "forks_count": 9935
+    "stargazers_count": 78133,
+    "open_issues_count": 275,
+    "forks_count": 10047
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4348,
-    "open_issues_count": 118,
+    "stargazers_count": 4361,
+    "open_issues_count": 112,
     "forks_count": 273
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 27764,
-    "open_issues_count": 43,
-    "forks_count": 752
+    "stargazers_count": 27810,
+    "open_issues_count": 40,
+    "forks_count": 754
   },
   {
     "full_name": "education/codespaces-project-template-dotnet",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 1,
     "forks_count": 42
   },
@@ -97,14 +109,14 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 22056,
-    "open_issues_count": 426,
-    "forks_count": 4112
+    "stargazers_count": 22099,
+    "open_issues_count": 427,
+    "forks_count": 4130
   },
   {
     "full_name": "githubpresente/opensourceLATAM",
     "stargazers_count": 8,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 5
   },
   {
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "formidablejs/framework",
-    "stargazers_count": 43,
+    "stargazers_count": 42,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -133,21 +145,21 @@
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 6146,
-    "open_issues_count": 25,
-    "forks_count": 1213
+    "stargazers_count": 6179,
+    "open_issues_count": 15,
+    "forks_count": 1225
   },
   {
     "full_name": "midudev/aprendiendo-react",
-    "stargazers_count": 3519,
+    "stargazers_count": 3645,
     "open_issues_count": 5,
-    "forks_count": 654
+    "forks_count": 667
   },
   {
     "full_name": "mouredev/hello-git",
-    "stargazers_count": 3180,
-    "open_issues_count": 30,
-    "forks_count": 737
+    "stargazers_count": 3227,
+    "open_issues_count": 36,
+    "forks_count": 745
   },
   {
     "full_name": "SistemasTecTlaxiaco/octocat-AR-T",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 54948,
-    "open_issues_count": 498,
-    "forks_count": 8564
+    "stargazers_count": 55163,
+    "open_issues_count": 499,
+    "forks_count": 8593
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 38994,
-    "open_issues_count": 113,
-    "forks_count": 6795
-  },
-  {
-    "full_name": "vercel/turbo",
-    "stargazers_count": 21464,
-    "open_issues_count": 473,
-    "forks_count": 1443
-  },
-  {
-    "full_name": "glrodasz/awesome-estreamers-coders",
-    "stargazers_count": 22,
-    "open_issues_count": 5,
-    "forks_count": 12
+    "stargazers_count": 39113,
+    "open_issues_count": 116,
+    "forks_count": 6831
   }
 ]
