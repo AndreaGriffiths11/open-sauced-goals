@@ -1,9 +1,9 @@
 [
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 27385,
-    "open_issues_count": 72,
-    "forks_count": 2808
+    "stargazers_count": 29290,
+    "open_issues_count": 90,
+    "forks_count": 3145
   },
   {
     "full_name": "LucioMSP/GitHub-101",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "philnash/bsky-bot",
-    "stargazers_count": 18,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -21,7 +21,7 @@
     "full_name": "blackcater/blackcater",
     "stargazers_count": 107,
     "open_issues_count": 10,
-    "forks_count": 83
+    "forks_count": 82
   },
   {
     "full_name": "replicate/zoo",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 59688,
-    "open_issues_count": 441,
-    "forks_count": 4987
+    "stargazers_count": 59845,
+    "open_issues_count": 446,
+    "forks_count": 5001
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 1929,
-    "open_issues_count": 63,
+    "stargazers_count": 1957,
+    "open_issues_count": 64,
     "forks_count": 231
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5215,
-    "open_issues_count": 14,
-    "forks_count": 603
+    "stargazers_count": 5236,
+    "open_issues_count": 15,
+    "forks_count": 606
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1124,
-    "open_issues_count": 8,
-    "forks_count": 260
+    "stargazers_count": 1125,
+    "open_issues_count": 9,
+    "forks_count": 262
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "juntossomosmais/frontend-guideline",
-    "stargazers_count": 1083,
+    "stargazers_count": 1084,
     "open_issues_count": 0,
     "forks_count": 46
   },
@@ -92,8 +92,8 @@
   {
     "full_name": "github/brasil",
     "stargazers_count": 220,
-    "open_issues_count": 5,
-    "forks_count": 48
+    "open_issues_count": 8,
+    "forks_count": 50
   },
   {
     "full_name": "githubpresente/opensourceBRASIL",
@@ -103,32 +103,32 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1587,
+    "stargazers_count": 1600,
     "open_issues_count": 58,
     "forks_count": 109
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 82062,
-    "open_issues_count": 278,
-    "forks_count": 10865
+    "stargazers_count": 82476,
+    "open_issues_count": 281,
+    "forks_count": 10947
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4439,
-    "open_issues_count": 102,
-    "forks_count": 278
+    "stargazers_count": 4503,
+    "open_issues_count": 108,
+    "forks_count": 280
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 28177,
-    "open_issues_count": 43,
-    "forks_count": 772
+    "stargazers_count": 28214,
+    "open_issues_count": 47,
+    "forks_count": 775
   },
   {
     "full_name": "education/codespaces-project-template-dotnet",
-    "stargazers_count": 90,
-    "open_issues_count": 3,
+    "stargazers_count": 91,
+    "open_issues_count": 5,
     "forks_count": 47
   },
   {
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 22459,
-    "open_issues_count": 460,
-    "forks_count": 4238
+    "stargazers_count": 22486,
+    "open_issues_count": 466,
+    "forks_count": 4251
   },
   {
     "full_name": "githubpresente/opensourceLATAM",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "sallar/github-contributions-chart",
-    "stargazers_count": 4704,
+    "stargazers_count": 4717,
     "open_issues_count": 9,
-    "forks_count": 222
+    "forks_count": 221
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 530,
-    "open_issues_count": 2,
+    "stargazers_count": 531,
+    "open_issues_count": 3,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 14338,
-    "open_issues_count": 46,
-    "forks_count": 2401
+    "stargazers_count": 15031,
+    "open_issues_count": 33,
+    "forks_count": 2469
   }
 ]
