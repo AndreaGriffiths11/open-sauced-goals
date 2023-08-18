@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "suryan-s/Synopysor",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "FourthBrain/FastAPI-for-Machine-Learning-Live-Demo",
+    "stargazers_count": 119,
+    "open_issues_count": 1,
+    "forks_count": 37
+  },
+  {
+    "full_name": "alfredodeza/huggingface-summarization",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 34723,
+    "stargazers_count": 34831,
     "open_issues_count": 55,
-    "forks_count": 3103
+    "forks_count": 3117
   },
   {
     "full_name": "github/pets-workshop",
@@ -13,25 +31,25 @@
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 985,
+    "stargazers_count": 987,
     "open_issues_count": 6,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 31957,
-    "open_issues_count": 116,
-    "forks_count": 3517
+    "stargazers_count": 32138,
+    "open_issues_count": 117,
+    "forks_count": 3546
   },
   {
     "full_name": "LucioMSP/GitHub-101",
     "stargazers_count": 18,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "philnash/bsky-bot",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -43,9 +61,9 @@
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 153,
-    "open_issues_count": 11,
-    "forks_count": 23
+    "stargazers_count": 156,
+    "open_issues_count": 12,
+    "forks_count": 22
   },
   {
     "full_name": "github/training-kit",
@@ -55,27 +73,27 @@
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 61431,
+    "stargazers_count": 61550,
     "open_issues_count": 473,
-    "forks_count": 5168
+    "forks_count": 5177
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 2115,
+    "stargazers_count": 2124,
     "open_issues_count": 74,
-    "forks_count": 270
+    "forks_count": 273
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5453,
+    "stargazers_count": 5468,
     "open_issues_count": 15,
     "forks_count": 620
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1186,
-    "open_issues_count": 9,
-    "forks_count": 285
+    "stargazers_count": 1191,
+    "open_issues_count": 5,
+    "forks_count": 287
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -99,7 +117,7 @@
     "full_name": "juntossomosmais/frontend-guideline",
     "stargazers_count": 1089,
     "open_issues_count": 0,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "hubberboss/cobra",
@@ -121,33 +139,33 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1772,
-    "open_issues_count": 63,
-    "forks_count": 123
+    "stargazers_count": 1782,
+    "open_issues_count": 64,
+    "forks_count": 125
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 86146,
-    "open_issues_count": 293,
-    "forks_count": 11572
+    "stargazers_count": 86400,
+    "open_issues_count": 295,
+    "forks_count": 11618
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4785,
-    "open_issues_count": 135,
-    "forks_count": 313
+    "stargazers_count": 4793,
+    "open_issues_count": 136,
+    "forks_count": 314
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 28660,
-    "open_issues_count": 50,
-    "forks_count": 790
+    "stargazers_count": 28704,
+    "open_issues_count": 51,
+    "forks_count": 791
   },
   {
     "full_name": "education/codespaces-project-template-dotnet",
     "stargazers_count": 105,
     "open_issues_count": 3,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "rafaelbmateus/me",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 22878,
-    "open_issues_count": 495,
-    "forks_count": 4371
-  },
-  {
-    "full_name": "githubpresente/opensourceLATAM",
-    "stargazers_count": 9,
-    "open_issues_count": 3,
-    "forks_count": 7
-  },
-  {
-    "full_name": "Klashiin/quote-generator",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "formidablejs/framework",
-    "stargazers_count": 46,
-    "open_issues_count": 1,
-    "forks_count": 3
+    "stargazers_count": 22916,
+    "open_issues_count": 511,
+    "forks_count": 4389
   }
 ]
