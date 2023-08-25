@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "crlycx/barbiepedia",
+    "stargazers_count": 2,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 3237,
+    "stargazers_count": 3254,
     "open_issues_count": 93,
-    "forks_count": 447
+    "forks_count": 448
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 34959,
-    "open_issues_count": 56,
-    "forks_count": 3138
+    "stargazers_count": 35049,
+    "open_issues_count": 57,
+    "forks_count": 3158
   },
   {
     "full_name": "github/pets-workshop",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 1038,
+    "stargazers_count": 1045,
     "open_issues_count": 6,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 32277,
-    "open_issues_count": 121,
-    "forks_count": 3573
+    "stargazers_count": 32350,
+    "open_issues_count": 122,
+    "forks_count": 3592
   },
   {
     "full_name": "LucioMSP/GitHub-101",
@@ -69,43 +75,43 @@
     "full_name": "blackcater/blackcater",
     "stargazers_count": 118,
     "open_issues_count": 11,
-    "forks_count": 83
+    "forks_count": 82
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 160,
-    "open_issues_count": 12,
-    "forks_count": 24
+    "stargazers_count": 162,
+    "open_issues_count": 11,
+    "forks_count": 25
   },
   {
     "full_name": "github/training-kit",
-    "stargazers_count": 3971,
+    "stargazers_count": 3973,
     "open_issues_count": 58,
     "forks_count": 4482
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 61671,
-    "open_issues_count": 474,
-    "forks_count": 5191
+    "stargazers_count": 61779,
+    "open_issues_count": 479,
+    "forks_count": 5203
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 2139,
+    "stargazers_count": 2151,
     "open_issues_count": 74,
-    "forks_count": 274
+    "forks_count": 275
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5487,
+    "stargazers_count": 5502,
     "open_issues_count": 16,
-    "forks_count": 620
+    "forks_count": 619
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1190,
+    "stargazers_count": 1191,
     "open_issues_count": 4,
-    "forks_count": 287
+    "forks_count": 288
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "github/brasil",
-    "stargazers_count": 259,
+    "stargazers_count": 263,
     "open_issues_count": 7,
     "forks_count": 53
   },
   {
     "full_name": "githubpresente/opensourceBRASIL",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1795,
+    "stargazers_count": 1806,
     "open_issues_count": 66,
     "forks_count": 125
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 86849,
+    "stargazers_count": 87058,
     "open_issues_count": 294,
-    "forks_count": 11674
+    "forks_count": 11717
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4809,
-    "open_issues_count": 140,
-    "forks_count": 317
+    "stargazers_count": 4816,
+    "open_issues_count": 139,
+    "forks_count": 318
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 28743,
-    "open_issues_count": 50,
-    "forks_count": 792
-  },
-  {
-    "full_name": "education/codespaces-project-template-dotnet",
-    "stargazers_count": 108,
-    "open_issues_count": 3,
-    "forks_count": 49
+    "stargazers_count": 28770,
+    "open_issues_count": 53,
+    "forks_count": 793
   }
 ]
