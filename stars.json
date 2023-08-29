@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "JesusAnaya/charla-pyconlatam-2023",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "carla-simulator/carla",
+    "stargazers_count": 9562,
+    "open_issues_count": 846,
+    "forks_count": 3004
+  },
+  {
     "full_name": "crlycx/barbiepedia",
     "stargazers_count": 2,
     "open_issues_count": 4,
@@ -7,9 +19,9 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 3254,
+    "stargazers_count": 3267,
     "open_issues_count": 93,
-    "forks_count": 448
+    "forks_count": 452
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -33,13 +45,13 @@
     "full_name": "alfredodeza/huggingface-summarization",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 35049,
-    "open_issues_count": 57,
-    "forks_count": 3158
+    "stargazers_count": 35147,
+    "open_issues_count": 59,
+    "forks_count": 3169
   },
   {
     "full_name": "github/pets-workshop",
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 32350,
+    "stargazers_count": 32469,
     "open_issues_count": 122,
-    "forks_count": 3592
+    "forks_count": 3598
   },
   {
     "full_name": "LucioMSP/GitHub-101",
@@ -79,31 +91,31 @@
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 162,
+    "stargazers_count": 164,
     "open_issues_count": 11,
     "forks_count": 25
   },
   {
     "full_name": "github/training-kit",
-    "stargazers_count": 3973,
+    "stargazers_count": 3975,
     "open_issues_count": 58,
     "forks_count": 4482
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 61779,
-    "open_issues_count": 479,
-    "forks_count": 5203
+    "stargazers_count": 61915,
+    "open_issues_count": 483,
+    "forks_count": 5224
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 2151,
-    "open_issues_count": 74,
-    "forks_count": 275
+    "stargazers_count": 2167,
+    "open_issues_count": 78,
+    "forks_count": 278
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5502,
+    "stargazers_count": 5524,
     "open_issues_count": 16,
     "forks_count": 619
   },
@@ -111,7 +123,7 @@
     "full_name": "scraly/developers-conferences-agenda",
     "stargazers_count": 1191,
     "open_issues_count": 4,
-    "forks_count": 288
+    "forks_count": 287
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "juntossomosmais/frontend-guideline",
-    "stargazers_count": 1089,
+    "stargazers_count": 1090,
     "open_issues_count": 0,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "hubberboss/cobra",
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "github/brasil",
-    "stargazers_count": 263,
+    "stargazers_count": 271,
     "open_issues_count": 7,
     "forks_count": 53
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1806,
+    "stargazers_count": 1814,
     "open_issues_count": 66,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 87058,
-    "open_issues_count": 294,
-    "forks_count": 11717
-  },
-  {
-    "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4816,
-    "open_issues_count": 139,
-    "forks_count": 318
-  },
-  {
-    "full_name": "solidjs/solid",
-    "stargazers_count": 28770,
-    "open_issues_count": 53,
-    "forks_count": 793
+    "stargazers_count": 87305,
+    "open_issues_count": 292,
+    "forks_count": 11766
   }
 ]
