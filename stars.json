@@ -1,21 +1,21 @@
 [
   {
     "full_name": "StanGirard/quivr",
-    "stargazers_count": 22384,
-    "open_issues_count": 152,
-    "forks_count": 2344
+    "stargazers_count": 22509,
+    "open_issues_count": 148,
+    "forks_count": 2354
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 4987,
-    "open_issues_count": 55,
-    "forks_count": 394
+    "stargazers_count": 5057,
+    "open_issues_count": 40,
+    "forks_count": 409
   },
   {
     "full_name": "Mteheran/api-colombia",
     "stargazers_count": 153,
     "open_issues_count": 1,
-    "forks_count": 19
+    "forks_count": 18
   },
   {
     "full_name": "JesusAnaya/charla-pyconlatam-2023",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 9605,
-    "open_issues_count": 859,
-    "forks_count": 3016
+    "stargazers_count": 9623,
+    "open_issues_count": 866,
+    "forks_count": 3019
   },
   {
     "full_name": "crlycx/barbiepedia",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 3312,
-    "open_issues_count": 95,
-    "forks_count": 459
+    "stargazers_count": 3329,
+    "open_issues_count": 96,
+    "forks_count": 464
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 35449,
-    "open_issues_count": 59,
-    "forks_count": 3202
+    "stargazers_count": 35540,
+    "open_issues_count": 58,
+    "forks_count": 3211
   },
   {
     "full_name": "github/pets-workshop",
-    "stargazers_count": 32,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 1052,
+    "stargazers_count": 1054,
     "open_issues_count": 7,
     "forks_count": 99
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 32845,
+    "stargazers_count": 32913,
     "open_issues_count": 124,
-    "forks_count": 3637
+    "forks_count": 3651
   },
   {
     "full_name": "LucioMSP/GitHub-101",
@@ -103,45 +103,45 @@
   },
   {
     "full_name": "blackcater/blackcater",
-    "stargazers_count": 118,
+    "stargazers_count": 117,
     "open_issues_count": 11,
     "forks_count": 83
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 166,
+    "stargazers_count": 167,
     "open_issues_count": 10,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "github/training-kit",
-    "stargazers_count": 3987,
-    "open_issues_count": 61,
-    "forks_count": 4482
+    "stargazers_count": 3990,
+    "open_issues_count": 59,
+    "forks_count": 4483
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 62267,
-    "open_issues_count": 482,
-    "forks_count": 5256
+    "stargazers_count": 62394,
+    "open_issues_count": 484,
+    "forks_count": 5262
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 2193,
-    "open_issues_count": 79,
-    "forks_count": 285
+    "stargazers_count": 2198,
+    "open_issues_count": 78,
+    "forks_count": 287
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5573,
+    "stargazers_count": 5580,
     "open_issues_count": 16,
     "forks_count": 621
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1195,
+    "stargazers_count": 1197,
     "open_issues_count": 4,
-    "forks_count": 288
+    "forks_count": 289
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "tiangolo/blog-posts",
-    "stargazers_count": 255,
+    "stargazers_count": 254,
     "open_issues_count": 2,
     "forks_count": 87
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "juntossomosmais/frontend-guideline",
-    "stargazers_count": 1090,
+    "stargazers_count": 1092,
     "open_issues_count": 0,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "hubberboss/cobra",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "github/brasil",
-    "stargazers_count": 279,
-    "open_issues_count": 3,
+    "stargazers_count": 281,
+    "open_issues_count": 4,
     "forks_count": 53
   }
 ]
