@@ -1,33 +1,33 @@
 [
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 36715,
+    "stargazers_count": 36945,
     "open_issues_count": 742,
-    "forks_count": 3329
+    "forks_count": 3348
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 126,
-    "open_issues_count": 31,
-    "forks_count": 16
+    "stargazers_count": 149,
+    "open_issues_count": 32,
+    "forks_count": 19
   },
   {
     "full_name": "nasa/spaceapps",
-    "stargazers_count": 370,
+    "stargazers_count": 373,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "StanGirard/quivr",
-    "stargazers_count": 23386,
-    "open_issues_count": 132,
-    "forks_count": 2494
+    "stargazers_count": 23428,
+    "open_issues_count": 130,
+    "forks_count": 2500
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 5477,
-    "open_issues_count": 66,
-    "forks_count": 470
+    "stargazers_count": 5496,
+    "open_issues_count": 67,
+    "forks_count": 476
   },
   {
     "full_name": "Mteheran/api-colombia",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 9719,
-    "open_issues_count": 895,
-    "forks_count": 3053
+    "stargazers_count": 9727,
+    "open_issues_count": 900,
+    "forks_count": 3060
   },
   {
     "full_name": "crlycx/barbiepedia",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 3447,
+    "stargazers_count": 3465,
     "open_issues_count": 97,
-    "forks_count": 482
+    "forks_count": 485
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 36283,
-    "open_issues_count": 68,
-    "forks_count": 3297
+    "stargazers_count": 36378,
+    "open_issues_count": 40,
+    "forks_count": 3309
   },
   {
     "full_name": "github/pets-workshop",
-    "stargazers_count": 31,
-    "open_issues_count": 1,
-    "forks_count": 4
+    "stargazers_count": 32,
+    "open_issues_count": 3,
+    "forks_count": 7
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 1073,
+    "stargazers_count": 1075,
     "open_issues_count": 0,
     "forks_count": 103
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 33284,
-    "open_issues_count": 131,
-    "forks_count": 3710
+    "stargazers_count": 33311,
+    "open_issues_count": 129,
+    "forks_count": 3719
   },
   {
     "full_name": "LucioMSP/GitHub-101",
@@ -115,51 +115,51 @@
   },
   {
     "full_name": "philnash/bsky-bot",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "blackcater/blackcater",
-    "stargazers_count": 117,
+    "stargazers_count": 116,
     "open_issues_count": 11,
     "forks_count": 83
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 225,
-    "open_issues_count": 12,
+    "stargazers_count": 229,
+    "open_issues_count": 14,
     "forks_count": 32
   },
   {
     "full_name": "github/training-kit",
-    "stargazers_count": 4019,
-    "open_issues_count": 67,
-    "forks_count": 4494
+    "stargazers_count": 4021,
+    "open_issues_count": 68,
+    "forks_count": 4497
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 63290,
-    "open_issues_count": 533,
-    "forks_count": 5368
+    "stargazers_count": 63414,
+    "open_issues_count": 540,
+    "forks_count": 5369
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 2302,
+    "stargazers_count": 2311,
     "open_issues_count": 80,
-    "forks_count": 304
+    "forks_count": 305
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5729,
-    "open_issues_count": 17,
-    "forks_count": 637
+    "stargazers_count": 5746,
+    "open_issues_count": 18,
+    "forks_count": 639
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1232,
+    "stargazers_count": 1236,
     "open_issues_count": 11,
-    "forks_count": 295
+    "forks_count": 297
   },
   {
     "full_name": "melvincarvalho/dev.to",
