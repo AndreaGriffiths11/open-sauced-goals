@@ -1,39 +1,39 @@
 [
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1171,
-    "open_issues_count": 87,
-    "forks_count": 80
+    "stargazers_count": 1178,
+    "open_issues_count": 88,
+    "forks_count": 83
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 37116,
-    "open_issues_count": 756,
-    "forks_count": 3378
+    "stargazers_count": 37278,
+    "open_issues_count": 750,
+    "forks_count": 3397
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 161,
+    "stargazers_count": 164,
     "open_issues_count": 31,
     "forks_count": 19
   },
   {
     "full_name": "nasa/spaceapps",
-    "stargazers_count": 371,
+    "stargazers_count": 372,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "StanGirard/quivr",
-    "stargazers_count": 23495,
-    "open_issues_count": 132,
-    "forks_count": 2507
+    "stargazers_count": 23636,
+    "open_issues_count": 147,
+    "forks_count": 2516
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 5525,
-    "open_issues_count": 69,
-    "forks_count": 486
+    "stargazers_count": 5551,
+    "open_issues_count": 70,
+    "forks_count": 488
   },
   {
     "full_name": "Mteheran/api-colombia",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 9740,
-    "open_issues_count": 905,
-    "forks_count": 3066
+    "stargazers_count": 9754,
+    "open_issues_count": 907,
+    "forks_count": 3074
   },
   {
     "full_name": "crlycx/barbiepedia",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 3479,
+    "stargazers_count": 3497,
     "open_issues_count": 98,
-    "forks_count": 488
+    "forks_count": 490
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 36451,
+    "stargazers_count": 36536,
     "open_issues_count": 39,
-    "forks_count": 3318
+    "forks_count": 3332
   },
   {
     "full_name": "github/pets-workshop",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 3,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 1077,
+    "stargazers_count": 1080,
     "open_issues_count": 0,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 33367,
-    "open_issues_count": 129,
-    "forks_count": 3729
+    "stargazers_count": 33403,
+    "open_issues_count": 131,
+    "forks_count": 3736
   },
   {
     "full_name": "LucioMSP/GitHub-101",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "philnash/bsky-bot",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -133,39 +133,39 @@
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 232,
+    "stargazers_count": 234,
     "open_issues_count": 14,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "github/training-kit",
-    "stargazers_count": 4020,
-    "open_issues_count": 70,
-    "forks_count": 4501
+    "stargazers_count": 4023,
+    "open_issues_count": 72,
+    "forks_count": 4502
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 63538,
-    "open_issues_count": 550,
-    "forks_count": 5375
+    "stargazers_count": 63653,
+    "open_issues_count": 554,
+    "forks_count": 5389
   },
   {
     "full_name": "ohmplatform/FreedomGPT",
-    "stargazers_count": 2323,
+    "stargazers_count": 2330,
     "open_issues_count": 81,
-    "forks_count": 305
+    "forks_count": 306
   },
   {
     "full_name": "midudev/preguntas-entrevista-react",
-    "stargazers_count": 5754,
+    "stargazers_count": 5776,
     "open_issues_count": 18,
     "forks_count": 639
   },
   {
     "full_name": "scraly/developers-conferences-agenda",
-    "stargazers_count": 1242,
+    "stargazers_count": 1253,
     "open_issues_count": 11,
-    "forks_count": 301
+    "forks_count": 304
   },
   {
     "full_name": "melvincarvalho/dev.to",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "tiangolo/blog-posts",
-    "stargazers_count": 254,
+    "stargazers_count": 253,
     "open_issues_count": 2,
     "forks_count": 88
   }
