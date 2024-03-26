@@ -7,9 +7,9 @@
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 51221,
-    "open_issues_count": 1022,
-    "forks_count": 4693
+    "stargazers_count": 51295,
+    "open_issues_count": 1033,
+    "forks_count": 4700
   },
   {
     "full_name": "ManuelGil/extension-starter-kit",
@@ -19,26 +19,26 @@
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 6088,
-    "open_issues_count": 198,
-    "forks_count": 598
+    "stargazers_count": 6153,
+    "open_issues_count": 200,
+    "forks_count": 616
   },
   {
     "full_name": "CodingTrain/thecodingtrain.com",
-    "stargazers_count": 170,
-    "open_issues_count": 22,
-    "forks_count": 100
+    "stargazers_count": 172,
+    "open_issues_count": 23,
+    "forks_count": 101
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 26598,
+    "stargazers_count": 26809,
     "open_issues_count": 29,
-    "forks_count": 2634
+    "forks_count": 2673
   },
   {
     "full_name": "todogroup/ospology",
     "stargazers_count": 180,
-    "open_issues_count": 16,
+    "open_issues_count": 18,
     "forks_count": 74
   },
   {
@@ -49,37 +49,37 @@
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4065,
+    "stargazers_count": 4082,
     "open_issues_count": 1,
-    "forks_count": 420
+    "forks_count": 423
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 30320,
-    "open_issues_count": 84,
-    "forks_count": 2167
+    "stargazers_count": 30353,
+    "open_issues_count": 81,
+    "forks_count": 2170
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 385279,
-    "open_issues_count": 349,
-    "forks_count": 34949
+    "stargazers_count": 385437,
+    "open_issues_count": 366,
+    "forks_count": 34978
   },
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1444,
+    "stargazers_count": 1451,
     "open_issues_count": 217,
     "forks_count": 116
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 40488,
-    "open_issues_count": 732,
-    "forks_count": 3643
+    "stargazers_count": 40534,
+    "open_issues_count": 724,
+    "forks_count": 3646
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 237,
+    "stargazers_count": 239,
     "open_issues_count": 31,
     "forks_count": 33
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "QuivrHQ/quivr",
-    "stargazers_count": 30271,
-    "open_issues_count": 125,
-    "forks_count": 2977
+    "stargazers_count": 30367,
+    "open_issues_count": 129,
+    "forks_count": 2986
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 9940,
-    "open_issues_count": 155,
-    "forks_count": 927
+    "stargazers_count": 9963,
+    "open_issues_count": 157,
+    "forks_count": 930
   },
   {
     "full_name": "Mteheran/api-colombia",
-    "stargazers_count": 219,
+    "stargazers_count": 220,
     "open_issues_count": 4,
     "forks_count": 25
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 10330,
-    "open_issues_count": 1079,
-    "forks_count": 3309
+    "stargazers_count": 10348,
+    "open_issues_count": 1081,
+    "forks_count": 3315
   },
   {
     "full_name": "crlycx/barbiepedia",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 4125,
+    "stargazers_count": 4138,
     "open_issues_count": 112,
-    "forks_count": 552
+    "forks_count": 553
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 42598,
-    "open_issues_count": 77,
-    "forks_count": 4004
+    "stargazers_count": 42728,
+    "open_issues_count": 79,
+    "forks_count": 4023
   },
   {
     "full_name": "github/pets-workshop",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 1809,
+    "stargazers_count": 1816,
     "open_issues_count": 1,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 34774,
+    "stargazers_count": 34800,
     "open_issues_count": 145,
-    "forks_count": 3313
+    "forks_count": 3319
   }
 ]
