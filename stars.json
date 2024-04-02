@@ -1,21 +1,21 @@
 [
   {
     "full_name": "TanStack/form",
-    "stargazers_count": 3274,
-    "open_issues_count": 38,
+    "stargazers_count": 3283,
+    "open_issues_count": 39,
     "forks_count": 286
   },
   {
     "full_name": "ahoraSoyPeor/notebook_descomUNAL",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 51368,
-    "open_issues_count": 1048,
-    "forks_count": 4704
+    "stargazers_count": 51481,
+    "open_issues_count": 1055,
+    "forks_count": 4713
   },
   {
     "full_name": "ManuelGil/extension-starter-kit",
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 6231,
-    "open_issues_count": 204,
-    "forks_count": 631
+    "stargazers_count": 6286,
+    "open_issues_count": 206,
+    "forks_count": 648
   },
   {
     "full_name": "CodingTrain/thecodingtrain.com",
     "stargazers_count": 173,
-    "open_issues_count": 30,
+    "open_issues_count": 22,
     "forks_count": 101
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 26974,
-    "open_issues_count": 30,
-    "forks_count": 2704
+    "stargazers_count": 27189,
+    "open_issues_count": 32,
+    "forks_count": 2740
   },
   {
     "full_name": "todogroup/ospology",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 17,
     "forks_count": 75
   },
@@ -55,37 +55,37 @@
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4095,
+    "stargazers_count": 4108,
     "open_issues_count": 1,
-    "forks_count": 424
+    "forks_count": 428
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 30383,
-    "open_issues_count": 83,
-    "forks_count": 2174
+    "stargazers_count": 30415,
+    "open_issues_count": 86,
+    "forks_count": 2179
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 385597,
-    "open_issues_count": 346,
-    "forks_count": 35011
+    "stargazers_count": 385797,
+    "open_issues_count": 352,
+    "forks_count": 35049
   },
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1454,
-    "open_issues_count": 221,
+    "stargazers_count": 1457,
+    "open_issues_count": 226,
     "forks_count": 116
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 40573,
-    "open_issues_count": 724,
-    "forks_count": 3655
+    "stargazers_count": 40631,
+    "open_issues_count": 727,
+    "forks_count": 3657
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 240,
+    "stargazers_count": 241,
     "open_issues_count": 31,
     "forks_count": 31
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "QuivrHQ/quivr",
-    "stargazers_count": 30912,
-    "open_issues_count": 131,
-    "forks_count": 3011
+    "stargazers_count": 31389,
+    "open_issues_count": 137,
+    "forks_count": 3033
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 9988,
-    "open_issues_count": 159,
-    "forks_count": 933
+    "stargazers_count": 10016,
+    "open_issues_count": 158,
+    "forks_count": 936
   },
   {
     "full_name": "Mteheran/api-colombia",
     "stargazers_count": 220,
     "open_issues_count": 4,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "JesusAnaya/charla-pyconlatam-2023",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 10370,
-    "open_issues_count": 1084,
-    "forks_count": 3327
+    "stargazers_count": 10396,
+    "open_issues_count": 1085,
+    "forks_count": 3332
   },
   {
     "full_name": "crlycx/barbiepedia",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 4156,
+    "stargazers_count": 4168,
     "open_issues_count": 113,
     "forks_count": 557
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "FourthBrain/FastAPI-for-Machine-Learning-Live-Demo",
-    "stargazers_count": 145,
+    "stargazers_count": 147,
     "open_issues_count": 1,
     "forks_count": 44
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 42850,
-    "open_issues_count": 78,
-    "forks_count": 4042
+    "stargazers_count": 42955,
+    "open_issues_count": 79,
+    "forks_count": 4053
   },
   {
     "full_name": "github/pets-workshop",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "skills/secure-code-game",
-    "stargazers_count": 1817,
+    "stargazers_count": 1825,
     "open_issues_count": 1,
     "forks_count": 151
   }
