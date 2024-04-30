@@ -1,9 +1,9 @@
 [
   {
     "full_name": "elmalba/website",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "PacktPublishing/NodeJS-for-Beginners",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "TanStack/form",
-    "stargazers_count": 3335,
-    "open_issues_count": 42,
+    "stargazers_count": 3338,
+    "open_issues_count": 40,
     "forks_count": 295
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 51940,
-    "open_issues_count": 1091,
-    "forks_count": 4755
+    "stargazers_count": 51998,
+    "open_issues_count": 1103,
+    "forks_count": 4752
   },
   {
     "full_name": "ManuelGil/extension-starter-kit",
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 6659,
-    "open_issues_count": 219,
-    "forks_count": 721
+    "stargazers_count": 6754,
+    "open_issues_count": 224,
+    "forks_count": 732
   },
   {
     "full_name": "CodingTrain/thecodingtrain.com",
     "stargazers_count": 176,
-    "open_issues_count": 23,
-    "forks_count": 102
+    "open_issues_count": 25,
+    "forks_count": 103
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 28816,
-    "open_issues_count": 36,
-    "forks_count": 2935
+    "stargazers_count": 29060,
+    "open_issues_count": 38,
+    "forks_count": 2970
   },
   {
     "full_name": "todogroup/ospology",
     "stargazers_count": 182,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 79
   },
   {
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4230,
+    "stargazers_count": 4248,
     "open_issues_count": 1,
-    "forks_count": 453
+    "forks_count": 455
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 30604,
-    "open_issues_count": 94,
+    "stargazers_count": 30646,
+    "open_issues_count": 93,
     "forks_count": 2183
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 388069,
-    "open_issues_count": 296,
-    "forks_count": 35382
+    "stargazers_count": 388281,
+    "open_issues_count": 278,
+    "forks_count": 35407
   },
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1514,
-    "open_issues_count": 235,
-    "forks_count": 115
+    "stargazers_count": 1517,
+    "open_issues_count": 236,
+    "forks_count": 118
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 41035,
+    "stargazers_count": 41104,
     "open_issues_count": 724,
-    "forks_count": 3705
+    "forks_count": 3719
   },
   {
     "full_name": "yuhattor/copilot-patterns",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "QuivrHQ/quivr",
-    "stargazers_count": 32281,
-    "open_issues_count": 124,
-    "forks_count": 3132
+    "stargazers_count": 32371,
+    "open_issues_count": 118,
+    "forks_count": 3151
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 10195,
+    "stargazers_count": 10216,
     "open_issues_count": 179,
-    "forks_count": 962
+    "forks_count": 968
   },
   {
     "full_name": "Mteheran/api-colombia",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 10505,
-    "open_issues_count": 1120,
-    "forks_count": 3371
+    "stargazers_count": 10516,
+    "open_issues_count": 1108,
+    "forks_count": 3373
   },
   {
     "full_name": "crlycx/barbiepedia",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "salesforce/BLIP",
-    "stargazers_count": 4258,
-    "open_issues_count": 116,
-    "forks_count": 567
+    "stargazers_count": 4271,
+    "open_issues_count": 117,
+    "forks_count": 566
   },
   {
     "full_name": "bhattbhavesh91/language-translation-using-mBart-50",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "FourthBrain/FastAPI-for-Machine-Learning-Live-Demo",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 1,
     "forks_count": 44
   },
