@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "FidelusAleksander/ghcertified",
+    "stargazers_count": 176,
+    "open_issues_count": 5,
+    "forks_count": 50
+  },
+  {
     "full_name": "vsouza/docker-SQS-local",
     "stargazers_count": 220,
     "open_issues_count": 2,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "Rapha-Borges/oke-free",
-    "stargazers_count": 886,
+    "stargazers_count": 888,
     "open_issues_count": 1,
-    "forks_count": 385
+    "forks_count": 386
   },
   {
     "full_name": "alt-text-org/in-need-of-adoption",
@@ -20,8 +26,8 @@
   {
     "full_name": "ferrocene/ferrocene",
     "stargazers_count": 1184,
-    "open_issues_count": 21,
-    "forks_count": 28
+    "open_issues_count": 20,
+    "forks_count": 29
   },
   {
     "full_name": "gittogethers/cdmx",
@@ -43,14 +49,14 @@
   },
   {
     "full_name": "Andresmup/github-foundations",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "TanStack/form",
-    "stargazers_count": 3356,
-    "open_issues_count": 46,
+    "stargazers_count": 3367,
+    "open_issues_count": 48,
     "forks_count": 297
   },
   {
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 52226,
-    "open_issues_count": 1112,
-    "forks_count": 4773
+    "stargazers_count": 52261,
+    "open_issues_count": 1115,
+    "forks_count": 4780
   },
   {
     "full_name": "ManuelGil/extension-starter-kit",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 6916,
-    "open_issues_count": 231,
-    "forks_count": 766
+    "stargazers_count": 6938,
+    "open_issues_count": 233,
+    "forks_count": 777
   },
   {
     "full_name": "CodingTrain/thecodingtrain.com",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 29702,
-    "open_issues_count": 40,
-    "forks_count": 3052
+    "stargazers_count": 29847,
+    "open_issues_count": 39,
+    "forks_count": 3069
   },
   {
     "full_name": "todogroup/ospology",
@@ -103,37 +109,37 @@
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4269,
+    "stargazers_count": 4282,
     "open_issues_count": 1,
-    "forks_count": 459
+    "forks_count": 461
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 30758,
-    "open_issues_count": 91,
-    "forks_count": 2193
+    "stargazers_count": 30778,
+    "open_issues_count": 89,
+    "forks_count": 2194
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 390004,
-    "open_issues_count": 318,
-    "forks_count": 35697
+    "stargazers_count": 390119,
+    "open_issues_count": 322,
+    "forks_count": 35715
   },
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1585,
-    "open_issues_count": 243,
+    "stargazers_count": 1592,
+    "open_issues_count": 246,
     "forks_count": 122
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 41342,
-    "open_issues_count": 717,
-    "forks_count": 3740
+    "stargazers_count": 41392,
+    "open_issues_count": 715,
+    "forks_count": 3746
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 251,
+    "stargazers_count": 252,
     "open_issues_count": 31,
     "forks_count": 32
   },
@@ -145,20 +151,20 @@
   },
   {
     "full_name": "QuivrHQ/quivr",
-    "stargazers_count": 33095,
-    "open_issues_count": 107,
-    "forks_count": 3233
+    "stargazers_count": 33189,
+    "open_issues_count": 105,
+    "forks_count": 3242
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 10281,
-    "open_issues_count": 173,
-    "forks_count": 977
+    "stargazers_count": 10304,
+    "open_issues_count": 172,
+    "forks_count": 980
   },
   {
     "full_name": "Mteheran/api-colombia",
     "stargazers_count": 224,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 27
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "carla-simulator/carla",
-    "stargazers_count": 10572,
-    "open_issues_count": 1075,
-    "forks_count": 3403
-  },
-  {
-    "full_name": "crlycx/barbiepedia",
-    "stargazers_count": 2,
-    "open_issues_count": 4,
-    "forks_count": 0
+    "stargazers_count": 10583,
+    "open_issues_count": 1087,
+    "forks_count": 3404
   }
 ]
