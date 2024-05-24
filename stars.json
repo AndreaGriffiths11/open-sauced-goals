@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "apolo96/gitfresh",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "FidelusAleksander/ghcertified",
-    "stargazers_count": 179,
-    "open_issues_count": 7,
-    "forks_count": 50
+    "stargazers_count": 184,
+    "open_issues_count": 6,
+    "forks_count": 52
   },
   {
     "full_name": "vsouza/docker-SQS-local",
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "ferrocene/ferrocene",
-    "stargazers_count": 1188,
-    "open_issues_count": 20,
+    "stargazers_count": 1189,
+    "open_issues_count": 18,
     "forks_count": 29
   },
   {
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "PacktPublishing/NodeJS-for-Beginners",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 16,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "Andresmup/github-foundations",
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "TanStack/form",
-    "stargazers_count": 3373,
-    "open_issues_count": 52,
+    "stargazers_count": 3381,
+    "open_issues_count": 51,
     "forks_count": 299
   },
   {
@@ -67,33 +73,33 @@
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 52313,
-    "open_issues_count": 1114,
-    "forks_count": 4787
+    "stargazers_count": 52385,
+    "open_issues_count": 1099,
+    "forks_count": 4791
   },
   {
     "full_name": "ManuelGil/extension-starter-kit",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 6956,
-    "open_issues_count": 234,
-    "forks_count": 783
+    "stargazers_count": 6976,
+    "open_issues_count": 238,
+    "forks_count": 788
   },
   {
     "full_name": "CodingTrain/thecodingtrain.com",
-    "stargazers_count": 180,
-    "open_issues_count": 27,
-    "forks_count": 105
+    "stargazers_count": 181,
+    "open_issues_count": 26,
+    "forks_count": 104
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 29957,
+    "stargazers_count": 30672,
     "open_issues_count": 38,
-    "forks_count": 3085
+    "forks_count": 3172
   },
   {
     "full_name": "todogroup/ospology",
@@ -109,37 +115,37 @@
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4287,
-    "open_issues_count": 1,
-    "forks_count": 464
+    "stargazers_count": 4308,
+    "open_issues_count": 2,
+    "forks_count": 604
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 30818,
-    "open_issues_count": 89,
-    "forks_count": 2197
+    "stargazers_count": 30860,
+    "open_issues_count": 88,
+    "forks_count": 2201
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 390272,
-    "open_issues_count": 330,
-    "forks_count": 35747
+    "stargazers_count": 390362,
+    "open_issues_count": 316,
+    "forks_count": 35762
   },
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1592,
-    "open_issues_count": 247,
+    "stargazers_count": 1591,
+    "open_issues_count": 242,
     "forks_count": 122
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 41446,
-    "open_issues_count": 715,
+    "stargazers_count": 41476,
+    "open_issues_count": 691,
     "forks_count": 3753
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 253,
+    "stargazers_count": 256,
     "open_issues_count": 31,
     "forks_count": 32
   },
@@ -151,20 +157,20 @@
   },
   {
     "full_name": "QuivrHQ/quivr",
-    "stargazers_count": 33262,
+    "stargazers_count": 33347,
     "open_issues_count": 104,
-    "forks_count": 3250
+    "forks_count": 3263
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 10322,
+    "stargazers_count": 10342,
     "open_issues_count": 174,
     "forks_count": 985
   },
   {
     "full_name": "Mteheran/api-colombia",
     "stargazers_count": 224,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 27
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "carla-simulator/carla",
-    "stargazers_count": 10602,
-    "open_issues_count": 1062,
-    "forks_count": 3410
   }
 ]
