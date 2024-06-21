@@ -2,7 +2,7 @@
   {
     "full_name": "huridocs/uwazi",
     "stargazers_count": 225,
-    "open_issues_count": 451,
+    "open_issues_count": 453,
     "forks_count": 80
   },
   {
@@ -14,20 +14,20 @@
   {
     "full_name": "Delta456/box-cli-maker",
     "stargazers_count": 506,
-    "open_issues_count": 7,
-    "forks_count": 24
+    "open_issues_count": 6,
+    "forks_count": 23
   },
   {
     "full_name": "expressjs/express",
-    "stargazers_count": 64172,
-    "open_issues_count": 191,
-    "forks_count": 14358
+    "stargazers_count": 64197,
+    "open_issues_count": 192,
+    "forks_count": 14405
   },
   {
     "full_name": "shanjon/como-hablar-con-robots",
-    "stargazers_count": 2,
+    "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "apolo96/gitfresh",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "FidelusAleksander/ghcertified",
-    "stargazers_count": 216,
+    "stargazers_count": 220,
     "open_issues_count": 5,
-    "forks_count": 62
+    "forks_count": 66
   },
   {
     "full_name": "vsouza/docker-SQS-local",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "Rapha-Borges/oke-free",
-    "stargazers_count": 892,
+    "stargazers_count": 893,
     "open_issues_count": 1,
     "forks_count": 387
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "ferrocene/ferrocene",
-    "stargazers_count": 1230,
-    "open_issues_count": 24,
+    "stargazers_count": 1228,
+    "open_issues_count": 22,
     "forks_count": 32
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "PacktPublishing/NodeJS-for-Beginners",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 16,
     "forks_count": 7
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "TanStack/form",
-    "stargazers_count": 3434,
-    "open_issues_count": 63,
+    "stargazers_count": 3441,
+    "open_issues_count": 52,
     "forks_count": 308
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 52801,
+    "stargazers_count": 52864,
     "open_issues_count": 873,
-    "forks_count": 4851
+    "forks_count": 4855
   },
   {
     "full_name": "ManuelGil/extension-starter-kit",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 7104,
+    "stargazers_count": 7117,
     "open_issues_count": 247,
-    "forks_count": 827
+    "forks_count": 829
   },
   {
     "full_name": "CodingTrain/thecodingtrain.com",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 33140,
+    "stargazers_count": 33289,
     "open_issues_count": 49,
-    "forks_count": 3445
+    "forks_count": 3460
   },
   {
     "full_name": "todogroup/ospology",
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4375,
+    "stargazers_count": 4392,
     "open_issues_count": 5,
-    "forks_count": 616
+    "forks_count": 619
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 31091,
-    "open_issues_count": 86,
-    "forks_count": 2206
+    "stargazers_count": 31130,
+    "open_issues_count": 82,
+    "forks_count": 2207
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 391529,
-    "open_issues_count": 262,
-    "forks_count": 35953
+    "stargazers_count": 391641,
+    "open_issues_count": 245,
+    "forks_count": 35976
   },
   {
     "full_name": "kubefirst/kubefirst",
-    "stargazers_count": 1609,
-    "open_issues_count": 252,
+    "stargazers_count": 1611,
+    "open_issues_count": 257,
     "forks_count": 126
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 41939,
-    "open_issues_count": 694,
-    "forks_count": 3779
+    "stargazers_count": 42005,
+    "open_issues_count": 701,
+    "forks_count": 3784
   },
   {
     "full_name": "yuhattor/copilot-patterns",
-    "stargazers_count": 262,
+    "stargazers_count": 267,
     "open_issues_count": 31,
     "forks_count": 32
   }
